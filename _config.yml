@@ -1,2 +1,4 @@
 name: Lily Lin, Software Engineer and Painter
 markdown: kramdown
+gems:
+  - jekyll-sitemap
